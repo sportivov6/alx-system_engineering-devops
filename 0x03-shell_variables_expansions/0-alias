@@ -1,2 +1,0 @@
-#!/bin/bassh
-alias ls="rm *"
