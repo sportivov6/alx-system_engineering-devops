@@ -1,2 +1,0 @@
-#!/bbin/bash
-alias ls="rm *"
